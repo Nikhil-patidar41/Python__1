@@ -1,0 +1,166 @@
+🔹 SECTION 1: VARIABLES (10 Questions)
+
+Create three variables name, age, is_student and assign appropriate values. Print all in one line.
+
+Swap values of two variables a = 10 and b = 20 without using a third variable.
+
+Assign the same value 100 to three variables x, y, z in one line.
+
+Store your first name and last name in separate variables and print full name.
+
+Create variable pi with value 3.14 and convert it to integer.
+
+Create a variable and delete it. Try printing after deletion.
+
+Assign integer value to a variable and later change it to string. Print both times.
+
+Create variable with name _price and assign 500.
+
+Check whether variable names 1num, num1, _num, num_one are valid.
+
+Store result of (10+5)*2 in a variable and print it.
+
+🔹 SECTION 2: DATA TYPES (10 Questions)
+
+Identify data type of:
+
+a = 10
+b = 10.5
+c = "10"
+d = True
+e = [1,2,3]
+
+
+Create one example of each:
+
+int
+
+float
+
+string
+
+boolean
+
+list
+
+tuple
+
+set
+
+dictionary
+
+Check type of variable using Python.
+
+Create a variable storing your phone number. Check its datatype.
+
+Convert integer 50 into float.
+
+Convert float 99.99 into integer.
+
+Convert string "123" into integer.
+
+Convert integer 100 into string.
+
+Check datatype before and after conversion.
+
+Can "10.5" be converted to int directly? Try.
+
+🔹 SECTION 3: TYPE CASTING (10 Questions)
+
+Convert list [1,2,3] into tuple.
+
+Convert tuple (10,20,30) into list.
+
+Convert string "python" into list.
+
+Convert list [1,1,2,2,3] into set.
+
+Convert set {5,6,7} into list.
+
+Convert integer 65 into float then into string.
+
+Convert boolean True into int.
+
+Convert int 0 into boolean.
+
+Convert float 0.0 into boolean.
+
+Convert string "False" into boolean.
+
+🔹 SECTION 4: INPUT / OUTPUT (10 Questions)
+
+Take name from user and print:
+Hello <name>
+
+Take two numbers from user and print their sum.
+
+Take age as input and print after 5 years age.
+
+Take two numbers and print multiplication.
+
+Take user city and print:
+You live in <city>
+
+Take three numbers and print average.
+
+Take integer input and print its square.
+
+Take string input and print length.
+
+Take two inputs and print greater number.
+
+Take user salary and print yearly salary.
+
+🔹 SECTION 5: LIST PRACTICE
+
+Use this list:
+
+nums = [10, 20, 30, 40, 50]
+
+
+Print first element.
+
+Print last element.
+
+Add 60 to list.
+
+Insert 15 at index 1.
+
+Remove 30 from list.
+
+Find length of list.
+
+Find sum of elements.
+
+Check if 40 exists in list.
+
+Reverse the list.
+
+Print elements using loop.
+
+🔹 SECTION 6: TUPLE PRACTICE
+
+Use tuple:
+
+t = (5, 10, 15, 20, 25)
+
+
+Print first element.
+
+Print last element.
+
+Find length of tuple.
+
+Convert tuple into list.
+
+Check if 15 exists.
+
+Count how many times 10 appears.
+
+Find index of 20.
+
+Slice first three elements.
+
+Loop through tuple.
+
+Try changing element and observe result.
