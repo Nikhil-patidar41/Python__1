@@ -8,3 +8,5 @@
 ✔ Tuples
 ✔ Sets
 ✔ Dictionaries
+✔ if/else
+✔ foor loop
